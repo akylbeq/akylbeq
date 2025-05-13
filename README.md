@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm a Web Developer</h1>
 
-<!--
-**akylbeq/akylbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔧 JavaScript / TypeScript
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎯 Focused on building modern, responsive web applications
+- ⚡ Confident in using Git and version control in real-world projects
+- 📚 Continuously learning and following frontend & full-stack trends
+- 🤝 Open to collaboration and contributing to interesting projects
+
+---
+
+### 🧰 Tech Stack
+
+#### 🖥️ Frontend
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS, SASS
+- **Frameworks:** React, Next.js, Vite
+- **UI Libraries:** Tailwind CSS, Bootstrap, Material UI (MUI)
+- **State Management:** Redux, Redux Thunk
+
+#### 🔧 Backend
+
+- **Runtime:** Node.js
+- **Databases:** MongoDB, SQL
+
+#### 🛠️ Tools
+
+- Git, GitHub, VSCode, Postman, Figma
+- API integration, project setup, deployment
+
+---
+
+### 📫 Contact
+
+- 📧 Email: hsplay74@gmail.com
+
+---
+
+> 🧠 _"The best way to predict the future is to invent it."_
+
