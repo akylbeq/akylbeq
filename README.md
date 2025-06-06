@@ -4,17 +4,6 @@
   🔧 JavaScript / TypeScript
 </p>
 
----
-
-### 🧠 About Me
-
-- 🎯 Focused on building modern, responsive web applications
-- ⚡ Confident in using Git and version control in real-world projects
-- 📚 Continuously learning and following frontend & full-stack trends
-- 🤝 Open to collaboration and contributing to interesting projects
-
----
-
 ### 🧰 Tech Stack
 
 #### 🖥️ Frontend
